@@ -10,3 +10,6 @@ int multiply(inta,intb){
 int division(inta,intb){
 	return a-b;
 }
+
+
+new methodHere
